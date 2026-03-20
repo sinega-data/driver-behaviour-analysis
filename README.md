@@ -40,5 +40,4 @@ python main.py
 M.Sinega — B.Tech Artificial Intelligence & Data Science
 EGS Pillay Engineering College, Nagapattinam
 
-## Author
-Sinega — B.Tech AI & DS
+
