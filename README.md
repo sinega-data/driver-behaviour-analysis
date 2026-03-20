@@ -31,7 +31,9 @@ python main.py
 
 ## Output
 1.ACTIVE --> Driver is focused and awake 
+
 2.DROWSY-->Eyes closing — fatigue detected 
+
 3.DISTRACTED-->Head tilted down — attention lost 
 
 ## Author
