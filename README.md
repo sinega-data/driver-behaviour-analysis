@@ -1,5 +1,3 @@
-# driver-behaviour-analysis
-Real-time driver drowsiness and attention monitoring using MediaPipe and OpenCV
 # Driver Behaviour Monitoring System
 
 A real-time driver behaviour analysis system using Computer Vision and MediaPipe.
